@@ -1,43 +1,35 @@
 # Getting Started with GitHub Copilot in JetBrains 
 
 
-- [Installing the JetBrains extension](#installing)
-- [Seeing your first suggestion](#first-suggestion)
-- [Choosing alternate suggestions](#alternates)
-- [Getting more suggestions](#more-suggestions)
-- [Generating code from a comment](#code-from-comment)
-- [More examples](#more-examples)
-- [Keyboard shortcuts](#shortcuts)
-- [Enabling or disabling GitHub Copilot](#enabling)
-- [Learn More](#more)
+- [Getting Started with GitHub Copilot in JetBrains](#getting-started-with-github-copilot-in-jetbrains)
+  - [1. Installing the JetBrains extension](#1-installing-the-jetbrains-extension)
+  - [2. Seeing your first suggestion](#2-seeing-your-first-suggestion)
+  - [3. Choosing alternate suggestions](#3-choosing-alternate-suggestions)
+  - [4. Getting more suggestions](#4-getting-more-suggestions)
+  - [5. Generating code from a comment](#5-generating-code-from-a-comment)
+  - [6. More examples](#6-more-examples)
+  - [7. Keyboard shortcuts](#7-keyboard-shortcuts)
+  - [8. Enabling and disabling GitHub Copilot](#8-enabling-and-disabling-github-copilot)
+  - [9. Learn More](#9-learn-more)
 
-<a name="installing"></a>
+<a name="1-installing-the-jetbrains-extension"></a>
 ## 1. Installing the JetBrains extension
 
-1. Add the "super early birds" plugin repository
-
-- Go to Preferences -> Plugins -> Settings Icon -> Manage Plugin Repositories
-- Add `https://plugins.jetbrains.com/plugins/super-early-bird/list`
-
-   <img src="resources\early-birds_jetbrains.png" width="600px" alt="Adding a plugin repository"/>
-
-- **Restart** the IDE to pick up the new plugin repository
-
-2. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
+1. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
 
    <img src='resources\search-for-github-copilot_jetbrains.png' width="600px" alt="Search for `github copilot`"/>
 
-3. Click the 'Install' button.
-4. Accept the Third-Party Plugins Privacy Notice.
-5. Exit and restart the IDE.
+2. Click the 'Install' button.
+3. Accept the Third-Party Plugins Privacy Notice.
+4. Exit and restart the IDE.
 
-6. In the Tools menu you will now see a GitHub Copilot option.
+5. In the Tools menu you will now see a GitHub Copilot option.
 
    <img src='resources\sign-in_jetbrains.png' width="600px" alt="Tools GitHub Copilot option`"/>
   
-7. Login to GitHub Copilot using the device auth flow and authorized GitHub Copilot IntelliJ plugin with your GitHub Account in an external browser.
-8. Read and agree to the GitHub Copilot additional telemetry terms.
-9. Click `OK`.
+6. Login to GitHub Copilot using the device auth flow and authorized GitHub Copilot IntelliJ plugin with your GitHub Account in an external browser.
+7. Read and agree to the GitHub Copilot additional telemetry terms.
+8. Click `OK`.
 
    Now when you start editing, you should see GitHub Copilot suggestions.
 
@@ -50,7 +42,7 @@
 
    Having problems installing? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
-<a name="first-suggestion"></a>
+<a name="2-seeing-your-first-suggestion"></a>
 ## 2. Seeing your first suggestion
 
 GitHub Copilot provides code suggestions for dozens of languages and a wide variety of frameworks, 
@@ -82,7 +74,7 @@ The exact suggestion may vary.
 
 GitHub Copilot will attempt to match your code's context and style. You can edit the suggested code as you choose.
 
-<a name="alternates"></a>
+<a name="3-choosing-alternate-suggestions"></a>
 ## 3. Choosing alternate suggestions
 
 For any given input, GitHub Copilot can provide multiple suggestions. 
@@ -106,7 +98,7 @@ As the developer you are always in charge; you can select which suggestion to us
 
 5. If you don't like any of the suggestions, press `Esc`.
 
-<a name="more-suggestions"></a>
+<a name="4-getting-more-suggestions"></a>
 ## 4. Getting more suggestions
 
 Sometimes, you may not want to use any of the initial suggestions. 
@@ -134,7 +126,7 @@ You can ask GitHub Copilot to return more.
 
 5. If you don't like any of the returned suggestions, just close the suggestions tab.
 
-<a name="code-from-comment"></a>
+<a name="5-generating-code-from-a-comment"></a>
 ## 5. Generating code from a comment
 
 GitHub Copilot can understand significantly more context than most code assistants, 
@@ -152,7 +144,7 @@ and can generate entire functions from something as simple as a comment.
 
    <img alt="Suggestions window" src="resources\code-from-comment_jetbrains.png" width="600"></img>
 
-<a name="more-examples"></a>
+<a name="6-more-examples"></a>
 ## 6. More examples
 
 GitHub Copilot has even more capabilities. 
@@ -162,7 +154,7 @@ this repository for the latest examples from us and the community.
 
 Got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
-<a name="shortcuts"></a>
+<a name="7-keyboard-shortcuts"></a>
 ## 7. Keyboard shortcuts
 
 The following lists the most common keyboard shortcuts relevant for GitHub
@@ -180,14 +172,14 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 
 * Open Copilot (up to 10 suggestions in separate pane): `Alt + Enter` or `Option + Enter` then pick "Open Copilot".
 
-<a name="enabling"></a>
+<a name="8-enabling-and-disabling-github-copilot"></a>
 ## 8. Enabling and disabling GitHub Copilot
 
 You can logout (or login) from Copilot from the `Tools`/`GitHub Copilot` menu.
 
    <img alt="The GitHub Copilot submenu in the Tools menu" src="resources\logout_jetbrains.png" width="600"></img>
 
-<a name="more"></a>
+<a name="9-learn-more"></a>
 ## 9. Learn More
 
 To learn more about configuring GitHub Copilot, go to the [documentation table of
