@@ -1,43 +1,35 @@
 # Getting Started with GitHub Copilot in JetBrains 
 
 
-- [Installing the JetBrains extension](#installing)
-- [Seeing your first suggestion](#first-suggestion)
-- [Choosing alternate suggestions](#alternates)
-- [Getting more suggestions](#more-suggestions)
-- [Generating code from a comment](#code-from-comment)
-- [More examples](#more-examples)
-- [Keyboard shortcuts](#shortcuts)
-- [Enabling or disabling GitHub Copilot](#enabling)
-- [Learn More](#more)
+- [Getting Started with GitHub Copilot in JetBrains](#getting-started-with-github-copilot-in-jetbrains)
+  - [1. Installing the JetBrains extension](#1-installing-the-jetbrains-extension)
+  - [2. Seeing your first suggestion](#2-seeing-your-first-suggestion)
+  - [3. Choosing alternate suggestions](#3-choosing-alternate-suggestions)
+  - [4. Getting more suggestions](#4-getting-more-suggestions)
+  - [5. Generating code from a comment](#5-generating-code-from-a-comment)
+  - [6. More examples](#6-more-examples)
+  - [7. Keyboard shortcuts](#7-keyboard-shortcuts)
+  - [8. Enabling and disabling GitHub Copilot](#8-enabling-and-disabling-github-copilot)
+  - [9. Learn More](#9-learn-more)
 
 <a name="installing"></a>
 ## 1. Installing the JetBrains extension
 
-1. Add the "super early birds" plugin repository
-
-- Go to Preferences -> Plugins -> Settings Icon -> Manage Plugin Repositories
-- Add `https://plugins.jetbrains.com/plugins/super-early-bird/list`
-
-   <img src="resources\early-birds_jetbrains.png" width="600px" alt="Adding a plugin repository"/>
-
-- **Restart** the IDE to pick up the new plugin repository
-
-2. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
+1. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
 
    <img src='resources\search-for-github-copilot_jetbrains.png' width="600px" alt="Search for `github copilot`"/>
 
-3. Click the 'Install' button.
-4. Accept the Third-Party Plugins Privacy Notice.
-5. Exit and restart the IDE.
+2. Click the 'Install' button.
+3. Accept the Third-Party Plugins Privacy Notice.
+4. Exit and restart the IDE.
 
-6. In the Tools menu you will now see a GitHub Copilot option.
+5. In the Tools menu you will now see a GitHub Copilot option.
 
    <img src='resources\sign-in_jetbrains.png' width="600px" alt="Tools GitHub Copilot option`"/>
   
-7. Login to GitHub Copilot using the device auth flow and authorized GitHub Copilot IntelliJ plugin with your GitHub Account in an external browser.
-8. Read and agree to the GitHub Copilot additional telemetry terms.
-9. Click `OK`.
+6. Login to GitHub Copilot using the device auth flow and authorized GitHub Copilot IntelliJ plugin with your GitHub Account in an external browser.
+7. Read and agree to the GitHub Copilot additional telemetry terms.
+8. Click `OK`.
 
    Now when you start editing, you should see GitHub Copilot suggestions.
 
