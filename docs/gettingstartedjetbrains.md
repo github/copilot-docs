@@ -12,7 +12,7 @@
   - [8. Enabling and disabling GitHub Copilot](#8-enabling-and-disabling-github-copilot)
   - [9. Learn More](#9-learn-more)
 
-<a name="installing"></a>
+<a name="1-installing-the-jetbrains-extension"></a>
 ## 1. Installing the JetBrains extension
 
 1. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
@@ -42,7 +42,7 @@
 
    Having problems installing? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
-<a name="first-suggestion"></a>
+<a name="2-seeing-your-first-suggestion"></a>
 ## 2. Seeing your first suggestion
 
 GitHub Copilot provides code suggestions for dozens of languages and a wide variety of frameworks, 
@@ -74,7 +74,7 @@ The exact suggestion may vary.
 
 GitHub Copilot will attempt to match your code's context and style. You can edit the suggested code as you choose.
 
-<a name="alternates"></a>
+<a name="3-choosing-alternate-suggestions"></a>
 ## 3. Choosing alternate suggestions
 
 For any given input, GitHub Copilot can provide multiple suggestions. 
@@ -98,7 +98,7 @@ As the developer you are always in charge; you can select which suggestion to us
 
 5. If you don't like any of the suggestions, press `Esc`.
 
-<a name="more-suggestions"></a>
+<a name="4-getting-more-suggestions"></a>
 ## 4. Getting more suggestions
 
 Sometimes, you may not want to use any of the initial suggestions. 
@@ -126,7 +126,7 @@ You can ask GitHub Copilot to return more.
 
 5. If you don't like any of the returned suggestions, just close the suggestions tab.
 
-<a name="code-from-comment"></a>
+<a name="5-generating-code-from-a-comment"></a>
 ## 5. Generating code from a comment
 
 GitHub Copilot can understand significantly more context than most code assistants, 
@@ -144,7 +144,7 @@ and can generate entire functions from something as simple as a comment.
 
    <img alt="Suggestions window" src="resources\code-from-comment_jetbrains.png" width="600"></img>
 
-<a name="more-examples"></a>
+<a name="6-more-examples"></a>
 ## 6. More examples
 
 GitHub Copilot has even more capabilities. 
@@ -154,7 +154,7 @@ this repository for the latest examples from us and the community.
 
 Got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
-<a name="shortcuts"></a>
+<a name="7-keyboard-shortcuts"></a>
 ## 7. Keyboard shortcuts
 
 The following lists the most common keyboard shortcuts relevant for GitHub
@@ -172,14 +172,14 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 
 * Open Copilot (up to 10 suggestions in separate pane): `Alt + Enter` or `Option + Enter` then pick "Open Copilot".
 
-<a name="enabling"></a>
+<a name="8-enabling-and-disabling-github-copilot"></a>
 ## 8. Enabling and disabling GitHub Copilot
 
 You can logout (or login) from Copilot from the `Tools`/`GitHub Copilot` menu.
 
    <img alt="The GitHub Copilot submenu in the Tools menu" src="resources\logout_jetbrains.png" width="600"></img>
 
-<a name="more"></a>
+<a name="9-learn-more"></a>
 ## 9. Learn More
 
 To learn more about configuring GitHub Copilot, go to the [documentation table of
