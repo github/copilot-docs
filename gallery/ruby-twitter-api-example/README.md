@@ -6,7 +6,7 @@ We assume you have (created) a Twitter account and that you're somewhat familiar
 
 ## Setup:
 
-Before you start, ceate a new read+write app on the [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard) and keep a note of the following values: 
+Before you start, create a new read+write app on the [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard) and keep a note of the following values:
 
 * `TWITTER_CONSUMER_KEY`
 * `TWITTER_CONSUMER_SECRET`
