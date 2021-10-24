@@ -2,6 +2,7 @@
 
 - [Visual Studio Code](./gettingstartedvisualstudiocode.md)
 - [JetBrains](./gettingstartedjetbrains.md)
+- [NeoVim](https://github.com/github/copilot.vim#getting-started)
 
 
 <a name="more"></a>
