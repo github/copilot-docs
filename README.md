@@ -1,7 +1,3 @@
----
-## NOTE: GitHub Copilot discussions have moved to the [Copilot Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
----
-
 # GitHub Copilot ![Version](https://img.shields.io/badge/version-technical_preview-green)
 
 <img width="128" alt="GitHub Copilot Logo" src="https://user-images.githubusercontent.com/28068/123712981-02676c80-d839-11eb-919a-96ee0c895e15.png">
@@ -12,11 +8,12 @@ In this repository, you can find documentation, walkthroughs, examples, and the 
 
 ## Getting Started
 
-For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https://copilot.github.com).
+To install GitHub Copilot, check out the Getting Started guides:
+- [Visual Studio Code](docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)
+- [JetBrains](docs/jetbrains/gettingstarted.md#getting-started-with-github-copilot-in-jetbrains)
+- [Neovim](https://github.com/github/copilot.vim#getting-started)
 
-If this is your first time using GitHub Copilot, check out the Getting Started guides:
-- [Visual Studio Code](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedvisualstudiocode.md)
-- [JetBrains](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedjetbrains.md)
+For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https://copilot.github.com).
 
 ## How to get help
 
@@ -34,19 +31,18 @@ or offensive output from GitHub Copilot, please report it privately to
 ## Useful links
 
 - [GitHub Copilot homepage](https://copilot.github.com)
-- [Getting started guide](https://github.com/github/copilot-docs/blob/main/docs/gettingstarted.md)
-- [Gallery](https://github.com/github/copilot-docs/tree/main/gallery)
-- [Documentation](https://github.com/github/copilot-docs/tree/main/docs)
+- [Gallery](gallery)
+- [Documentation](docs)
 - [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
 
 ## Code of conduct
 
 All users of GitHub Copilot are expected to comply with our 
-[Code of Conduct](https://github.com/github/copilot-docs/blob/main/CODE_OF_CONDUCT.md). 
+[Code of Conduct](CODE_OF_CONDUCT.md). 
 By participating in this repository, you are also agreeing to the same 
 [Terms of Service](https://help.github.com/articles/github-terms-of-service/) that you agree to when using GitHub.com.
 
 ## License
 
-Content in this repository is released under [CC-BY-4.0](https://github.com/github/copilot-docs/blob/main/LICENSE.txt). 
+Content in this repository is released under [CC-BY-4.0](LICENSE.txt). 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).

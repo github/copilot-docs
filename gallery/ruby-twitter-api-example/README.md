@@ -1,4 +1,4 @@
-# [Copilot examples](../README.md) › [Publish a Tweet](/README.md) (Ruby)
+# [Copilot examples](../README.md) › [Publish a Tweet](README.md) (Ruby)
 
 In this example we write some Ruby to publish a Tweet with the assumption that you have no prior experience of doing so, nor knowledge of what 3rd party Ruby Gems or code snippets can be used.
 

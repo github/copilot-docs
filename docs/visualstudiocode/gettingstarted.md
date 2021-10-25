@@ -152,7 +152,7 @@ Press `Tab` then `Enter` to accept each line.
 
 GitHub Copilot can do even more. 
 Check out the examples on [copilot.github.com](https://copilot.github.com) to see more, 
-or the [Gallery](https://github.com/github/copilot-docs/tree/main/gallery) in 
+or the [Gallery](../../gallery) in 
 this repository for the latest examples from us and the community.
 
 Got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).

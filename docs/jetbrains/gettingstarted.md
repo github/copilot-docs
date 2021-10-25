@@ -14,15 +14,7 @@
 <a name="installing"></a>
 ## 1. Installing the JetBrains extension
 
-1. Add the "super early birds" plugin repository
-
-- Go to Preferences -> Plugins -> Settings Icon -> Manage Plugin Repositories
-- Add `https://plugins.jetbrains.com/plugins/super-early-bird/list`
-
-   <img src="resources\early-birds_jetbrains.png" width="600px" alt="Adding a plugin repository"/>
-
-- **Restart** the IDE to pick up the new plugin repository
-
+1. We have tested with the following JetBrains IDEs: IntelliJ and PyCharm versions 2021.2 and above.
 2. From the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
 
    <img src='resources\search-for-github-copilot_jetbrains.png' width="600px" alt="Search for `github copilot`"/>
@@ -157,7 +149,7 @@ and can generate entire functions from something as simple as a comment.
 
 GitHub Copilot has even more capabilities. 
 Check out the examples on [copilot.github.com](https://copilot.github.com) to see more, 
-or the [Gallery](https://github.com/github/copilot-docs/tree/main/gallery) in 
+or the [Gallery](../../gallery) in 
 this repository for the latest examples from us and the community.
 
 Got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
@@ -183,7 +175,11 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 <a name="enabling"></a>
 ## 8. Enabling and disabling GitHub Copilot
 
-You can logout (or login) from Copilot from the `Tools`/`GitHub Copilot` menu.
+There's a setting to turn on or off the automatic completions. You can find the setting at `Preferences... > Languages & Frameworks > GitHub Copilot`.
+
+   <img alt="The GitHub Copilot preferences" src="resources\preferences.png" width="600"></img>
+
+You can also logout (or login) from Copilot from the `Tools`/`GitHub Copilot` menu.
 
    <img alt="The GitHub Copilot submenu in the Tools menu" src="resources\logout_jetbrains.png" width="600"></img>
 

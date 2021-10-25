@@ -16,7 +16,7 @@ To add a gallery example
 
 * GIFs and videos are welcome, but please keep the file sizes small.
 
-We'll highlight some of our favorites on the [README](/gallery/README.md) and on [Twitter](https://twitter.com/github).
+We'll highlight some of our favorites on the [README](gallery/README.md) and on [Twitter](https://twitter.com/github).
 
 ## Guidelines
 
