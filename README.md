@@ -14,8 +14,9 @@ In this repository, you can find documentation, walkthroughs, examples, and the 
 
 For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https://copilot.github.com).
 
-If this is your first time using GitHub Copilot, check out the 
-[Getting Started guide](https://github.com/github/copilot-docs/blob/main/docs/gettingstarted.md).
+If this is your first time using GitHub Copilot, check out the Getting Started guides:
+- [Visual Studio Code](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedvisualstudiocode.md)
+- [JetBrains](https://github.com/github/copilot-docs/blob/main/docs/gettingstartedjetbrains.md)
 
 ## How to get help
 
