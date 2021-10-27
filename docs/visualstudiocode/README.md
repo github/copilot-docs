@@ -1,4 +1,4 @@
-# GitHub Copilot for VSCode documentation
+# GitHub Copilot for Visual Studio Code documentation
 
 * [Getting Started Guide](gettingstarted.md)
 * [Configuring GitHub Copilot for VSCode](configuring.md)
