@@ -29,7 +29,7 @@ waitlist, visit [copilot.github.com](https://copilot.github.com).
 
 <img alt="Not in the preview" src="resources/not-in-preview.png" width="600"></img>
 
-After installation, a GitHub Copilot icon should appear in the status-panel at the bottom of your VSCode window.
+After installation, a GitHub Copilot icon should appear in the status-panel at the bottom of your Visual Studio Code window.
 
 Having problems installing? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
@@ -178,7 +178,7 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 <a name="enabling"></a>
 ## 9. Enabling and disabling GitHub Copilot
 
-The GitHub Copilot status icon in the bottom panel of the VSCode window
+The GitHub Copilot status icon in the bottom panel of the Visual Studio Code window
 indicates whether GitHub Copilot is enabled or disabled. Its background is blue 
 when enabled, and red when disabled. To enable or disable GitHub Copilot, click the icon. You will be
 asked whether you wish to toggle for the current file type, or globally.
