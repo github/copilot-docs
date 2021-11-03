@@ -1,7 +1,7 @@
-# GitHub Copilot and other VSCode extensions
+# GitHub Copilot and other Visual Studio Code extensions
 
 This page discusses issues and suggestions for setting up GitHub Copilot
-together with other popular VSCode extensions.
+together with other popular Visual Studio Code extensions.
 
 ## Vim (vscodevim)
 
