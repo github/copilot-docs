@@ -1,5 +1,7 @@
 # Getting Started with GitHub Copilot in Visual Studio Code
 
+English | [简体中文](./gettingstarted-zh_CN.md)
+
 - [Installing the Visual Studio Code extension](#installing)
 - [Seeing your first suggestion](#first-suggestion)
 - [Choosing alternate suggestions](#alternates)
