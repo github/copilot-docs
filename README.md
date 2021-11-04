@@ -1,5 +1,7 @@
 # GitHub Copilot ![Version](https://img.shields.io/badge/version-technical_preview-green)
 
+English | [简体中文](README-zh_CN.md)
+
 <img width="128" alt="GitHub Copilot Logo" src="https://user-images.githubusercontent.com/28068/123712981-02676c80-d839-11eb-919a-96ee0c895e15.png">
 
 Welcome to the GitHub Copilot user community!
