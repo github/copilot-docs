@@ -71,8 +71,8 @@ As the developer you are always in charge; you can select which suggestion to us
 2. GitHub Copilot will again show you a suggested completion.
 
 3. Instead of pressing `Tab`:
-   * On macOS, press `Option (⌥) or Alt`+`]` (or `Option (⌥) or Alt`+`[`).
-   * On Windows or Linux, press `Alt`+`]` (or `Alt`+`[`).
+   * On macOS, press `Option (⌥) `+`]` or `Option (⌥) `+`[`.
+   * On Windows or Linux, press `Alt`+`]` or `Alt`+`[`.
 
    GitHub Copilot will cycle through other alternative suggestions.
 
