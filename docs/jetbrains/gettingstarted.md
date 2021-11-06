@@ -89,7 +89,7 @@ As the developer you are always in charge; you can select which suggestion to us
 2. GitHub Copilot will again show you a suggested completion.
 
 3. Instead of pressing `Tab`:
-   * On macOS, press `Option`+`]` for next or `Option`+`[`) for previous.
+   * On macOS, press `Option`+`]` for next or `Option`+`[` for previous.
    * On Windows or Linux, press `Alt`+`]` for next or `Alt`+`[` for previous.
 
    GitHub Copilot will cycle through other alternative suggestions.
