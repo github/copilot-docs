@@ -3,7 +3,7 @@
 <img width="128" alt="GitHub Copilot Logo" src="https://user-images.githubusercontent.com/28068/123712981-02676c80-d839-11eb-919a-96ee0c895e15.png">
 
 Welcome to the GitHub Copilot user community!
-In this repository, you can find documentation, walkthroughs, examples, and the latest resources you need to use GitHub Copilot.
+In this repository, you can find documentation, walkthroughs, examples and the latest resources you need to use GitHub Copilot.
 
 
 ## Getting Started
@@ -17,15 +17,15 @@ For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https:/
 
 ## How to get help
 
-Have a question, or want to provide feedback? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
-to ask questions, share bugs or feedback, or chat with other users in the Preview.
+Have a question or want to provide feedback? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
+to ask questions, share bugs and feedback or chat with other users in the Preview.
 The GitHub Copilot team will respond as often as possible, but we also welcome you to 
 share your experiences and help others in the community.
 
 ## Safety
 
-We take safety seriously and are constantly working to improve GitHub Copilot. If you discover dangerous, biased, 
-or offensive output from GitHub Copilot, please report it privately to 
+We take safety seriously and are constantly working to improve GitHub Copilot. If you discover dangerous, biased
+or offensive output from GitHub Copilot; please report it privately to 
 [copilot-safety@github.com](mailto:copilot-safety@github.com).
 
 ## Useful links
