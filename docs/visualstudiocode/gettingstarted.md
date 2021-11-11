@@ -20,6 +20,8 @@ To use GitHub Copilot, you first need to install the Visual Studio Code extensio
 2. Open Visual Studio Code. You will be prompted to authorize the extension by signing in to GitHub.
 
    <img alt="Sign into GitHub to use GitHub Copilot" src="resources/sign-in.png" width="300"></img>
+   
+If you do not see the prompt, click on the bell icon at the bottom right corner of the window. 
 
 3. After you have authorized the extension, you will be returned back to Visual Studio Code.
 
