@@ -18,6 +18,14 @@ Copilot. If you wish to rebind the shortcuts, see [Configure keyboard shortcuts]
 
 * Open Copilot (10 suggestions in separate pane): `Alt + Enter` or `Option + Enter`.
    
+<a name="scheme"></a>
+## Color scheme
+
+The color used for inline suggestions is "Language Defaults -> Inline hints -> Text
+without background" of your current color scheme. If you wish to change the color,
+see [Customize a color scheme](https://www.jetbrains.com/help/idea/configuring-colors-and-fonts.html#customize-color-scheme)
+in the JetBrains documentation.
+
 <a name="more"></a>
 ## Learn More
 
