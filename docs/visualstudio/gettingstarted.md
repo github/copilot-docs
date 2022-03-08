@@ -107,7 +107,7 @@ As the developer you are always in charge; you can select which suggestion to us
 
 2. GitHub Copilot will again show you a suggested completion.
 
-3. Instead of pressing `Tab`, press `Ctrl`+`Alt`+`]` (or `Ctrl`+`Alt`+`[`).
+3. Instead of pressing `Tab`, press `Alt`+`.` (or `Alt`+`,`).
 
    GitHub Copilot will cycle through other alternative suggestions.
 
@@ -171,9 +171,9 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 
 * Dismiss an inline suggestion: `Esc`.
 
-* Show next inline suggestion: `Ctrl + Alt + ]`.
+* Show next inline suggestion: `Alt + .`.
 
-* Show previous inline suggestion: `Ctrl + Alt + [`.
+* Show previous inline suggestion: `Alt + ,`.
 
 * Trigger inline suggestion: `Ctrl + Alt + \`.
 
