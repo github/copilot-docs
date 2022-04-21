@@ -187,7 +187,11 @@ asked whether you wish to toggle for the current file, current file type, or glo
 <img alt="icon" src="resources/visual-studio-copilot-icon.png" width="100"></img>
 
 <a name="more"></a>
-## 9. Learn More
+## 9. IntelliCode and GitHub Copilot
+
+When GitHub Copilot is active, IntelliCode will not show suggestions.
+
+## 10. Learn More
 
 To learn more about configuring GitHub Copilot, go to the [documentation table of
 contents](README.md).
