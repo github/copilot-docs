@@ -9,7 +9,8 @@
   - [6. More examples](#6-more-examples)
   - [7. Keyboard shortcuts](#7-keyboard-shortcuts)
   - [8. Enabling and disabling GitHub Copilot](#8-enabling-and-disabling-github-copilot)
-  - [9. Learn More](#9-learn-more)
+  - [9. IntelliCode and GitHub Copilot](#9-intellicode-and-github-copilot)
+  - [10. Learn More](#10-learn-more)
 
 <a name="installing"></a>
 
