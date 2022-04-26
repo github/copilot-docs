@@ -189,7 +189,7 @@ asked whether you wish to toggle for the current file, current file type, or glo
 <a name="more"></a>
 ## 9. IntelliCode and GitHub Copilot
 
-When GitHub Copilot is active, IntelliCode will not show suggestions.
+When GitHub Copilot is active, IntelliCode will not show [Whole line completions](https://docs.microsoft.com/en-us/visualstudio/intellicode/visual-studio-whole-line-completions).
 
 ## 10. Learn More
 
