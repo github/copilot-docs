@@ -15,7 +15,7 @@
 ## 1. Installing the JetBrains extension
 
 1. We have tested with the following JetBrains IDEs: IntelliJ and PyCharm versions 2021.2 and above.
-2. From Settings/Preferences > Plugins, in the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
+2. From Settings/Preferences > Plugins, in the JetBrains marketplace, search for 'github copilot'.  (You must include the 'GitHub' to avoid other plug-ins with similar names.)
 
    <img src='resources\search-for-github-copilot_jetbrains.png' width="600px" alt="Search for `github copilot`"/>
 
@@ -23,7 +23,7 @@
 4. Accept the Third-Party Plugins Privacy Notice.
 5. Exit and restart the IDE.
 
-6. In the Tools menu you will now see a GitHub Copilot option.
+6. In the Tools menu, you will see a GitHub Copilot option.
 
    <img src='resources\sign-in_jetbrains.png' width="600px" alt="Tools GitHub Copilot option`"/>
   
@@ -33,14 +33,14 @@
 
    Now when you start editing, you should see GitHub Copilot suggestions.
 
-   If you receive the following message, you have not yet been added to the GitHub Copilot Technical Preview.
+   You have not yet been added to the GitHub Copilot Technical Preview if you receive the following message.
 
    <img alt="Not in the preview" src="resources/not-in-preview_jetbrains.png" width="600"></img>
 
    The Technical Preview is open to a limited number of testers. To join the 
    waitlist, visit [copilot.github.com](https://copilot.github.com).
 
-   Having problems installing? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
+   Are you having problems installing it? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
 <a name="first-suggestion"></a>
 ## 2. Seeing your first suggestion
@@ -66,7 +66,7 @@ The following samples are in Java, but other languages will work similarly.
    ```
 
 3. GitHub Copilot will automatically suggest an entire function body in grayed text, as shown below. 
-The exact suggestion may vary.
+The same suggestion may vary.
 
    <img alt="Code suggested by GitHub Copilot" src="resources\suggestion-function-body_jetbrains.png" width="600"></img>
 
@@ -78,7 +78,7 @@ GitHub Copilot will attempt to match your code's context and style. You can edit
 ## 3. Choosing alternate suggestions
 
 For any given input, GitHub Copilot can provide multiple suggestions. 
-As the developer you are always in charge; you can select which suggestion to use, or reject them all.
+As the developer, you are always in charge; you can select which suggestion to use or reject them all.
 
 1. Remove the function you entered and type the following again:
 
@@ -96,7 +96,7 @@ As the developer you are always in charge; you can select which suggestion to us
 
 4. When you see a suggestion you like, press `Tab` to accept it.
 
-5. If you don't like any of the suggestions, press `Esc`.
+5. If you don't like any suggestions, press `Esc`.
 
 <a name="more-suggestions"></a>
 ## 4. Getting more suggestions
@@ -118,13 +118,13 @@ You can ask GitHub Copilot to return more.
 
    <img alt="Open GitHub Copilot" src="resources\command-palette_jetbrains.png" width="600"></img>
 
-   Select "Open Copilot". GitHub Copilot will open a new tab and suggest multiple options, as shown below.
+   Select "Open Copilot". GitHub Copilot will open a new tab and suggest multiple options below.
 
    <img alt="Suggestions window" src="resources\completions-pane_jetbrains.png" width="600"></img>
 
-4. Pick a suggestion that you want to use, then click "Accept solution."
+4. Pick a suggestion you want to use, then click "Accept solution."
 
-5. If you don't like any of the returned suggestions, just close the suggestions tab.
+5. If you don't like any of the returned suggestions, close the suggestions tab.
 
 <a name="code-from-comment"></a>
 ## 5. Generating code from a comment
@@ -150,14 +150,14 @@ and can generate entire functions from something as simple as a comment.
 GitHub Copilot has even more capabilities. 
 Check out the examples on [copilot.github.com](https://copilot.github.com) to see more, 
 or the [Gallery](../../gallery) in 
-this repository for the latest examples from us and the community.
+this repository for the latest examples from the community and us.
 
-Got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
+Have you got an example of your own? We welcome you to share it on our [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
 <a name="shortcuts"></a>
 ## 7. Keyboard shortcuts
 
-The following lists the most common keyboard shortcuts relevant for GitHub
+The following lists the most common keyboard shortcuts relevant to GitHub
 Copilot. If you wish to rebind them, check out [the configuration guide](configuring.md).
 
 * Accept an inline suggestion: `Tab`.
