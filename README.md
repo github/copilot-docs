@@ -10,6 +10,7 @@ In this repository, you can find documentation, walkthroughs, examples, and the 
 
 To install GitHub Copilot, check out the Getting Started guides:
 - [Visual Studio Code](docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)
+- [Visual Studio](docs/visualstudio/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio)
 - [JetBrains](docs/jetbrains/gettingstarted.md#getting-started-with-github-copilot-in-jetbrains)
 - [Neovim](https://github.com/github/copilot.vim#getting-started)
 
