@@ -14,7 +14,7 @@
 <a name="installing"></a>
 ## 1. Installing the JetBrains extension
 
-1. We have tested with the following JetBrains IDEs: IntelliJ and PyCharm versions 2021.2 and above.
+1. We have tested with the following JetBrains IDEs: Rider, IntelliJ and PyCharm versions 2021.2 and above.
 2. From Settings/Preferences > Plugins, in the JetBrains marketplace, search for 'github copilot'.  (You must include the 'github' to avoid other plug-ins with similar names.)
 
    <img src='resources\search-for-github-copilot_jetbrains.png' width="600px" alt="Search for `github copilot`"/>
