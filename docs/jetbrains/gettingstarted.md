@@ -38,7 +38,7 @@
    <img alt="Not in the preview" src="resources/not-in-preview_jetbrains.png" width="600"></img>
 
    The Technical Preview is open to a limited number of testers. To join the 
-   waitlist, visit [copilot.github.com](https://copilot.github.com).
+   waitlist, visit the [Sign-Up page](https://github.com/features/copilot/signup).
 
    Having problems installing? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback).
 
