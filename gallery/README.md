@@ -4,6 +4,8 @@ This directory contains a few examples of GitHub Copilot in action.
 
 Much like GitHub Copilot itself, this list of examples will be growing and improving over time. **Your contributions are welcome!** Please see `CONTRIBUTING.md` for details.
 
+Github Copilot work with all sort of main stream programming/scripting langauges. 
+
 ## Examples
 
 |Example|Language(s)|
