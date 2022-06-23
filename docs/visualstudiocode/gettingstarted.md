@@ -23,11 +23,7 @@ To use GitHub Copilot, you first need to install the Visual Studio Code extensio
 
 3. After you have authorized the extension, you will be returned back to Visual Studio Code.
 
-If you receive the following message, you have not yet been added to the GitHub Copilot Technical Preview. 
-The Technical Preview is open to a limited number of testers. To join the 
-waitlist, visit [copilot.github.com](https://copilot.github.com).
-
-<img alt="Not in the preview" src="resources/not-in-preview.png" width="600"></img>
+If you have not yet signed up for a GitHub Copilot subscription, visit [https://github.com/features/copilot/](https://github.com/features/copilot/) to sign up for a free trial.
 
 After installation, a GitHub Copilot icon should appear in the status-panel at the bottom of your Visual Studio Code window.
 
