@@ -18,7 +18,7 @@ For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https:/
 
 ## How to get help
 
-Have a question, or want to provide feedback? Visit the [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
+Have a question, or want to provide feedback? Visit the [Feedback forum](https://github.com/github-community/community/discussions/categories/copilot)
 to ask questions, share bugs or feedback, or chat with other users in the Preview.
 The GitHub Copilot team will respond as often as possible, but we also welcome you to 
 share your experiences and help others in the community.
@@ -34,7 +34,7 @@ or offensive output from GitHub Copilot, please report it privately to
 - [GitHub Copilot homepage](https://copilot.github.com)
 - [Gallery](gallery)
 - [Documentation](docs)
-- [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
+- [Feedback forum](https://github.com/github-community/community/discussions/categories/copilot)
 
 ## Code of conduct
 
