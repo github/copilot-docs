@@ -16,7 +16,7 @@
 
 ## Prerequisites
 
-- You will need VS 2022 17.1 or later: https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-1-is-now-available/
+- You will need VS 2022 17.2 or later: <https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-2-is-now-available/>
 
 ## 1. Installing the Visual Studio extension
 
