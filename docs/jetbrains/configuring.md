@@ -20,7 +20,7 @@ Copilot.
    
 <a name="more"></a>
 
-For non english keyboards go to Settings/Keymap and search for "copilot".
+For non-English keyboards, go to Settings->Keymap and search for "copilot".
 
 If you wish to rebind the shortcuts, see [Configure keyboard shortcuts](https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html) in the JetBrains documentation.
 
